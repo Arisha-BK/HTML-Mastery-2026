@@ -46,7 +46,7 @@ This guide focuses on clarity, simplicity, and real understanding.
 
 ## 📚 What You Will Learn
 
-### 01. Basic Structure
+### 01. Basic Structure 
 - <!DOCTYPE html>
 - <html>
 - <head>
