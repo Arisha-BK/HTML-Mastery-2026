@@ -25,6 +25,18 @@ This section explains the fundamental structure of an HTML document.
 <p>This is a paragraph.</p>
 <br>
 <p>This line appears after a line break.</p>
+
+---
+
+## 🔹 Paragraphs & Line Breaks
+
+### Example
+<p>This is the first paragraph.</p>
+<p>This is the second paragraph.</p>
+
+Line one.<br>
+Line two.<br>
+Line three.<br>
 <body>
 
     <h1>Welcome to HTML Mastery 2026</h1>
@@ -32,3 +44,9 @@ This section explains the fundamental structure of an HTML document.
 
 </body>
 </html>
+
+## 🔹comment
+
+### Example
+<!-- This is a comment -->
+<p>Comments do not show in the browser output.</p>
