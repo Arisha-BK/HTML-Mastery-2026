@@ -47,11 +47,11 @@ This guide focuses on clarity, simplicity, and real understanding.
 ## 📚 What You Will Learn
 
 ### 01. Basic Structure 
-- !DOCTYPE html (tag)
-  html  (tag)
-- head  (tag)
-- title (tag)
-- body (tag)
+- !DOCTYPE html 
+- html  
+- head  
+- title
+- body 
 
 ### 02. Text Formatting
 - Headings (h1–h6)
