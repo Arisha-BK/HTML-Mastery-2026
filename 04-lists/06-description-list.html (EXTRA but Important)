@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Description List</title>
+</head>
+<body>
+
+    <h1>Description List (dl)</h1>
+
+    <dl>
+        <dt>HTML</dt>
+        <dd>Markup language for building web pages.</dd>
+
+        <dt>CSS</dt>
+        <dd>Used to style web pages.</dd>
+    </dl>
+
+</body>
+</html>
