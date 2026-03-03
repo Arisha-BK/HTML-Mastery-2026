@@ -1,0 +1,23 @@
+# 05 - HTML Tables
+
+This folder covers all important table concepts.
+
+## Basic Tags
+- <table>
+- <tr>
+- <th>
+- <td>
+
+## Important Attributes
+- border
+- cellpadding
+- cellspacing
+- colspan
+- rowspan
+
+## Advanced Structure
+- <thead>
+- <tbody>
+- <tfoot>
+
+Each file explains one concept clearly.
