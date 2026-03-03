@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic Form</title>
+</head>
+<body>
+
+    <h1>Basic Form Structure</h1>
+
+    <form action="#" method="post">
+
+        <label>Name:</label>
+        <input type="text">
+
+        <br><br>
+
+        <label>Email:</label>
+        <input type="email">
+
+        <br>
+
+        <input type="submit" value="Submit">
+
+    </form>
+
+</body>
+</html>
