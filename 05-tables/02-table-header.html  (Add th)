@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table with Header</title>
+</head>
+<body>
+
+    <h1>Table with th</h1>
+
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Profession</th>
+        </tr>
+
+        <tr>
+            <td>John</td>
+            <td>20</td>
+            <td>Student</td>
+        </tr>
+
+        <tr>
+            <td>Emma</td>
+            <td>22</td>
+            <td>Designer</td>
+        </tr>
+    </table>
+
+</body>
+</html>
