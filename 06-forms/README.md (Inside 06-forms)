@@ -1,47 +1,28 @@
-## 📘 06 - Forms
+## 📘 05 - Tables
 
-This section explains how to create forms in HTML.  
-Forms are used to collect user input.
-
----
-
-## 📂 Files Included
-
-1. 01-basic-form.html  
-   → Basic `<form>` structure
-
-2. 02-input-types.html  
-   → Important input types
-
-3. 03-radio-checkbox.html  
-   → Radio buttons and checkboxes
-
-4. 04-select-option.html  
-   → Dropdown using `<select>` and `<option>`
-
-5. 05-textarea-button.html  
-   → `<textarea>` and `<button>`
-
-6. 06-advanced-form-elements.html  
-   → Advanced form features
+This section explains how to create tables in HTML using different table-related tags.  
+Tables are used to organize data into rows and columns.
 
 ---
+
+This folder covers all important table concepts.
 
 ## 🔹 Basic Tags
-- `<form>`
-- `<input>`
-- `<label>`
-- `<button>`
-- `<textarea>`
+- `<table>`
+- `<tr>`
+- `<th>`
+- `<td>`
 
-## 🔹 Advanced & Important
-- `required`
-- `placeholder`
-- `pattern`
-- `readonly`
-- `disabled`
-- `min`, `max`
-- `<fieldset>`
-- `<legend>`
+## 🔹 Important Attributes
+- `border`
+- `cellpadding`
+- `cellspacing`
+- `colspan`
+- `rowspan`
 
-Each file explains one concept clearly from beginner to advanced level.
+## 🔹 Advanced Structure
+- `<thead>`
+- `<tbody>`
+- `<tfoot>`
+
+Each file explains one concept clearly.
