@@ -1,0 +1,33 @@
+## 📘 07 - Semantic Tags
+
+Semantic tags improve HTML structure and accessibility.  
+They give meaning to your content and help search engines & screen readers understand your page.
+
+---
+
+## 📂 Files Included
+
+1. 01-header.html → Header section for page or section
+2. 02-nav.html → Navigation menus
+3. 03-section-article.html → Section with multiple articles
+4. 04-footer.html → Footer section
+5. 05-combined-layout.html → Full page example combining all semantic tags
+
+---
+
+## 🔹 Basic Semantic Tags
+- `<header>` → Introductory content of a page or section
+- `<nav>` → Navigation links
+- `<section>` → Thematic grouping of content
+- `<article>` → Independent content piece
+- `<footer>` → Page or section footer
+
+---
+
+## 🔹 Advanced Usage Tips
+- Combine tags for full page layout
+- Use `<article>` inside `<section>` for grouped content
+- Use `<footer>` for copyright, links, or contact info
+- Semantic tags improve SEO and accessibility
+
+Each file explains one concept clearly from beginner to advanced usage.
