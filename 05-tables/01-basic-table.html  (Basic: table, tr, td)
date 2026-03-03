@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic Table</title>
+</head>
+<body>
+
+    <h1>Basic Table</h1>
+
+    <table border="1">
+        <tr>
+            <td>John</td>
+            <td>20</td>
+            <td>Student</td>
+        </tr>
+
+        <tr>
+            <td>Emma</td>
+            <td>22</td>
+            <td>Designer</td>
+        </tr>
+    </table>
+
+</body>
+</html>
