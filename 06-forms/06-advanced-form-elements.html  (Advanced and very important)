@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Advanced Form Elements</title>
+</head>
+<body>
+
+    <h1>Advanced Form Elements</h1>
+
+    <form>
+
+        <!-- Fieldset and Legend -->
+        <fieldset>
+            <legend>Personal Information</legend>
+
+            Name: <input type="text" required><br><br>
+            Email: <input type="email" required><br><br>
+
+        </fieldset>
+
+        <br>
+
+        <!-- Placeholder & Value -->
+        Username: <input type="text" placeholder="Enter username"><br><br>
+
+        <!-- Min, Max, Step -->
+        Age: <input type="number" min="1" max="100"><br><br>
+
+        <!-- Pattern -->
+        Phone: <input type="text" pattern="[0-9]{11}" placeholder="11 digit number"><br><br>
+
+        <!-- Readonly & Disabled -->
+        Country: <input type="text" value="Bangladesh" readonly><br><br>
+
+        <input type="submit">
+
+    </form>
+
+</body>
+</html>
