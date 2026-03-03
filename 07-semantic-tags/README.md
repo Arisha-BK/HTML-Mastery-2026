@@ -16,18 +16,18 @@ They give meaning to your content and help search engines & screen readers under
 ---
 
 ## 🔹 Basic Semantic Tags
-- `<header>` → Introductory content of a page or section
-- `<nav>` → Navigation links
-- `<section>` → Thematic grouping of content
-- `<article>` → Independent content piece
-- `<footer>` → Page or section footer
+- <header> → Introductory content of a page or section
+- <nav> → Navigation links
+- <section> → Thematic grouping of content
+- <article> → Independent content piece
+- <footer> → Page or section footer
 
 ---
 
 ## 🔹 Advanced Usage Tips
 - Combine tags for full page layout
-- Use `<article>` inside `<section>` for grouped content
-- Use `<footer>` for copyright, links, or contact info
+- Use <article> inside <section> for grouped content
+- Use <footer> for copyright, links, or contact info
 - Semantic tags improve SEO and accessibility
 
 Each file explains one concept clearly from beginner to advanced usage.
