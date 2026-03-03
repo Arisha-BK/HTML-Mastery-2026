@@ -95,6 +95,17 @@ This guide focuses on clarity, simplicity, and real understanding.
 - video
 - iframe
 
+### 09. Advanced Forms & Input Validation
+- form
+- input
+- label
+- textarea
+- button
+- HTML5 input types: email, url, number, date
+- Attributes: required, pattern, minlength, maxlength, min, max, step
+- Custom validation messages
+- fieldset & legend
+
 ---
 
 ## 🧠 Learning Approach
