@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Attributes</title>
+</head>
+<body>
+
+    <h1>Table Attributes</h1>
+
+    <table border="1" cellpadding="10" cellspacing="5">
+        <tr>
+            <th>Name</th>
+            <th>Score</th>
+        </tr>
+
+        <tr>
+            <td>Arisha</td>
+            <td>95</td>
+        </tr>
+
+        <tr>
+            <td>Rahim</td>
+            <td>88</td>
+        </tr>
+    </table>
+
+</body>
+</html>
