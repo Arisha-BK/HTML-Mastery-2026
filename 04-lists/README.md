@@ -11,4 +11,4 @@ This folder contains separate files for each list type.
 5. 05-nested-list.html → Nested lists
 6. 06-description-list.html → <dl>, <dt>, <dd>
 
-Each file demonstrates one concept only.
+Each file demonstrates one concept only. 
