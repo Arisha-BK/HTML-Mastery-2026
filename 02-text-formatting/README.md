@@ -2,7 +2,7 @@
 
 This section explains how to format text in HTML using different tags.
 
----
+--- 
 
 ## 🔹 Example Code
 
