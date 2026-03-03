@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Advanced Table Structure</title>
+</head>
+<body>
+
+    <h1>Advanced Table Structure</h1>
+
+    <table border="1">
+
+        <!-- Table Head -->
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Salary</th>
+            </tr>
+        </thead>
+
+        <!-- Table Body -->
+        <tbody>
+            <tr>
+                <td>John</td>
+                <td>IT</td>
+                <td>$2000</td>
+            </tr>
+
+            <tr>
+                <td>Emma</td>
+                <td>HR</td>
+                <td>$1800</td>
+            </tr>
+        </tbody>
+
+        <!-- Table Footer -->
+        <tfoot>
+            <tr>
+                <td colspan="2">Total Employees</td>
+                <td>2</td>
+            </tr>
+        </tfoot>
+
+    </table>
+
+</body>
+</html>
